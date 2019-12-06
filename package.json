@@ -1,5 +1,5 @@
 {
-  "name": "yup",
+  "name": "@tecfu/yup",
   "version": "0.27.0",
   "description": "Dead simple Object schema validation",
   "main": "lib/index.js",
@@ -21,14 +21,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jquense/yup.git"
+    "url": "https://github.com/tecfu/yup.git"
   },
   "author": "@monasticpanic Jason Quense",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jquense/yup/issues"
+    "url": "https://github.com/tecfu/yup/issues"
   },
-  "homepage": "https://github.com/jquense/yup",
+  "homepage": "https://github.com/tecfu/yup",
   "release": {
     "conventional-commits": true
   },

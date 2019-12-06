@@ -1,5 +1,7 @@
 # Yup
 
+**This is a fork of Yup designed specifically for conversion to Swagger Definitions. It aims to stay current with the upstream but adds some features that the author of Yup has not merged.**
+
 Yup is a JavaScript object schema validator and object parser. The API and style is ~~stolen~~ heavily inspired
 by [Joi](https://github.com/hapijs/joi), which is an amazing library but is generally too large and difficult
 to package for use in a browser. Yup is leaner: in the same spirit, without some of the fancy features.
